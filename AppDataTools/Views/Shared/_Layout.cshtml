@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Data Tools</title>
+    @Styles.Render("~/Content/css")
+    <link href="~/Content/sweetalert/sweet-alert.css" rel="stylesheet" />
+    @Scripts.Render("~/bundles/modernizr")
+    <script src="~/Scripts/sweetAlert.js"></script>
+    <style>
+    </style>
+</head>
+<body>
+    <div class="navbar navbar-default">
+        <div class="container">
+            <div class="navbar-header">
+                <div>
+                    @Html.ActionLink("Cerrar Sesion", "Login", "Autenticacion", new { area = "" }, new { @class = "navbar-brand" })
+                </div>
+            </div>
+            <div class="navbar-collapse collapse">
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @Html.Partial("_NotificationPanel")
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - PRUEBA DATA TOOLS ANGIE AROCA</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

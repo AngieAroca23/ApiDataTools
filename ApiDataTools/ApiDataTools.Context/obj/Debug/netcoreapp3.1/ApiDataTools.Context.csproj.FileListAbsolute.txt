@@ -18,3 +18,13 @@ C:\Users\angis\source\repos\DataTools\ApiDataTools\ApiDataTools.Context\obj\Debu
 C:\Users\angis\source\repos\DataTools\ApiDataTools\ApiDataTools.Context\bin\Debug\netcoreapp3.1\ApiDataTools.Context.deps.json
 C:\Users\angis\source\repos\DataTools\ApiDataTools\ApiDataTools.Context\bin\Debug\netcoreapp3.1\ApiDataTools.Context.dll
 C:\Users\angis\source\repos\DataTools\ApiDataTools\ApiDataTools.Context\bin\Debug\netcoreapp3.1\ApiDataTools.Context.pdb
+C:\Users\angis\Source\Repos\ApiDataTools\ApiDataTools\ApiDataTools.Context\bin\Debug\netcoreapp3.1\ApiDataTools.Context.deps.json
+C:\Users\angis\Source\Repos\ApiDataTools\ApiDataTools\ApiDataTools.Context\bin\Debug\netcoreapp3.1\ApiDataTools.Context.dll
+C:\Users\angis\Source\Repos\ApiDataTools\ApiDataTools\ApiDataTools.Context\bin\Debug\netcoreapp3.1\ApiDataTools.Context.pdb
+C:\Users\angis\Source\Repos\ApiDataTools\ApiDataTools\ApiDataTools.Context\obj\Debug\netcoreapp3.1\ApiDataTools.Context.csprojAssemblyReference.cache
+C:\Users\angis\Source\Repos\ApiDataTools\ApiDataTools\ApiDataTools.Context\obj\Debug\netcoreapp3.1\ApiDataTools.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angis\Source\Repos\ApiDataTools\ApiDataTools\ApiDataTools.Context\obj\Debug\netcoreapp3.1\ApiDataTools.Context.AssemblyInfoInputs.cache
+C:\Users\angis\Source\Repos\ApiDataTools\ApiDataTools\ApiDataTools.Context\obj\Debug\netcoreapp3.1\ApiDataTools.Context.AssemblyInfo.cs
+C:\Users\angis\Source\Repos\ApiDataTools\ApiDataTools\ApiDataTools.Context\obj\Debug\netcoreapp3.1\ApiDataTools.Context.csproj.CoreCompileInputs.cache
+C:\Users\angis\Source\Repos\ApiDataTools\ApiDataTools\ApiDataTools.Context\obj\Debug\netcoreapp3.1\ApiDataTools.Context.dll
+C:\Users\angis\Source\Repos\ApiDataTools\ApiDataTools\ApiDataTools.Context\obj\Debug\netcoreapp3.1\ApiDataTools.Context.pdb
