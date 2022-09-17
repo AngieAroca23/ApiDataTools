@@ -10,8 +10,8 @@
 
 #ModoEjecucion
 1.	Descargar y ejecutar el script cargado en el repositorio (SQL Server)
-2.	Descargar, descomprimir, abrir y ejecutar el proyecto ApiDataTools (Modificar la conexión)
-3.	Descargar, descomprimir, abrir y ejecutar el proyecto AppDataTools
+2.	Descargar, abrir y ejecutar el proyecto ApiDataTools (Modificar la conexión)
+3.	Descargar, abrir y ejecutar el proyecto AppDataTools
 4.	Después de ejecutado el sitio se inicia sesión con las siguientes credenciales
     USUARIO : UserPrueba22
     PASSWORD: PruebaDT2022
